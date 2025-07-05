@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
-#nav
+nav
 {
 	background-color: #d3d3d3;
 	padding: 10px;
 }	
 	
-	
-
-
 	li{
-		display:inline;
+		display: inline;
 		margin-right: 1rem;
-		list-style-type:none;
-	  }
+		list-style-type: none;
+	}
+
+
+	
