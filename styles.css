@@ -1,15 +1,9 @@
-/*  your css code here. If applicable */
-nav
-{
-	background-color: #d3d3d3;
-	padding: 10px;
-}	
-	
-	li{
-		display: inline;
-		margin-right: 1rem;
-		list-style-type: none;
-	}
-
-
-	
+.nav{
+	background-color:#ded3d3;
+	padding:10px;
+}
+li{
+	display:inline;
+	margin-right:1rem;
+	list-style-type:none;
+}
